@@ -1,0 +1,2 @@
+# MyMiniSite
+GitHub Pages
