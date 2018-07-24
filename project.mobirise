@@ -549,7 +549,7 @@
             },
             ".section-text": {
               "padding": "2rem 0",
-              "color": "#ffffff"
+              "color": "#232323"
             },
             ".inner-container": {
               "margin": "0 auto"
