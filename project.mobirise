@@ -658,7 +658,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
+              "color": "#232323",
               "text-align": "center"
             },
             ".formoid": {
